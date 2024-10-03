@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Ya-Foo's Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+My IB Notes (aaaaaaaaaaaaaaaaaaaa)
+
+     ^...^
+    / o,o \
+    |):::(|
+======w=w===
