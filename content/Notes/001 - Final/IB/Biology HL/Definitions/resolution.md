@@ -1,0 +1,1 @@
+Ability to distinguish between two objects

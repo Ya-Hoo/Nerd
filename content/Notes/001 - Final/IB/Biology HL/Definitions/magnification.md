@@ -1,0 +1,1 @@
+Ability to make small objects appear larger

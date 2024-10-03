@@ -1,0 +1,3 @@
+- cell is the smallest unit of life
+- cell can only arise from preexisting cells
+- all living things are composed of cell
