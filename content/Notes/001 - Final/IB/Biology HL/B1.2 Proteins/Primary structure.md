@@ -1,0 +1,2 @@
+- Specific sequence of [[Amino acids|amino acids]] that are joined together to form a polypeptide chain.
+- The precise position of each [[Amino acids|amino acids]] within the structure will determine its shape.

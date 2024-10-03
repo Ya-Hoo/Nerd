@@ -1,0 +1,1 @@
+A process in which the structure of a protein is altered causing it to lose functions, usually permanently.

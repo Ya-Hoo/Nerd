@@ -1,0 +1,1 @@
+any molecule that has both [[hydrophobic|hydrophobic]] and [[hydrophilic|hydrophilic]] properties

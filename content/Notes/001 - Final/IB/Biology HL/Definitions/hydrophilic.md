@@ -1,0 +1,1 @@
+easily dissolve in water, include all [[polar|polar]] molecules, ions, and any molecules water adhere to

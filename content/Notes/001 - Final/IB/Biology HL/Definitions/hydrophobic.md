@@ -1,0 +1,1 @@
+do not easily dissolve in water, include [[non-polar|non-polar]] molecules
