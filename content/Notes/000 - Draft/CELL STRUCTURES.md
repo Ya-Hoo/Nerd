@@ -1,6 +1,41 @@
 ___
 # Prokaryotes
+- does not contain membrane-bound organelles
+- unicellular
+- typically between 0.1 and 5.0 μm
+- Bacteria and Archaea
+## Components
+| Column 1            | Column 2                     |
+| ------------------- | ---------------------------- |
+| [[Cell wall]]       | [[Ribosomes\|70S ribosomes]] |
+| [[Plasma membrane]] | [[Plasmid]]                  |
+| [[Cytoplasm]]       | [[Slime capsule]]            |
+| [[Nucleoid]]        | [[Flagella]]                 |
+|                     | [[Pili]]                     |
 # Eukaryotes
-## Animal cells
-## Plant cells
-
+- contains membrane-bound organelles
+- multicellular
+- typically between 10 and 100 μm
+- Animal, Plants, Fungus
+## Components
+| Column 1                              | Column 2         |
+| ------------------------------------- | ---------------- |
+| [[Nucleus]]                           | [[Chloroplast]]  |
+| [[Plasma membrane]]                   | [[Vacuoles]]     |
+| [[Cytoplasm]]                         | [[Vesicles]]     |
+| [[Rough endoplasmic reticulum (RER)]] | [[Microtubules]] |
+| [[Soft endoplasmic reticulum (SER)]]  | [[Centrioles]]   |
+| [[Golgi apparatus]]                   | [[Cytoskeleton]] |
+| [[Lysosome]]                          | [[Cilia]]        |
+| [[Mitochondria]]                      | [[Flagella]]     |
+| [[Ribosomes\|80S ribosomes]]          | [[Cell wall]]    |
+# Processes of Life
+| Process             | Description |
+| ------------------- | ----------- |
+| Metabolism          |             |
+| Response to stimuli |             |
+| Homeostasis         |             |
+| Growth              |             |
+| Reproduction        |             |
+| Excretion           |             |
+| Nutrition           |             |
