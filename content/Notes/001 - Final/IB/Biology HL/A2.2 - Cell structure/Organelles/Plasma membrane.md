@@ -1,3 +1,0 @@
-- Considered an organelle
-- Separate interior environment from external environment, controls what enters and exit the cell, maintain concentrations of ions/substances
-- Made of [[Phospholipids|phospholipids]] bilayer

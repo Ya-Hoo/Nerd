@@ -1,6 +1,7 @@
 *Basic structural unit of DNA*
 
 Coil around 8 histone proteins held together by an additional histone attached to linker DNA $\implies$ fibre (solenoid)
+![[Pasted image 20241004210029.png]]
 
 Prokaryotes does not use Nucleosome $\implies$ naked DNA
 

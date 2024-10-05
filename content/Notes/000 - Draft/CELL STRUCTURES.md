@@ -30,12 +30,12 @@ ___
 | [[Mitochondria]]                      | [[Flagella]]     |
 | [[Ribosomes\|80S ribosomes]]          | [[Cell wall]]    |
 # Processes of Life
-| Process             | Description |
-| ------------------- | ----------- |
-| Metabolism          |             |
-| Response to stimuli |             |
-| Homeostasis         |             |
-| Growth              |             |
-| Reproduction        |             |
-| Excretion           |             |
-| Nutrition           |             |
+| Process             | Description                                                        |
+| ------------------- | ------------------------------------------------------------------ |
+| Metabolism          | the web of all enzyme-catalysed reactions in a cell or organism    |
+| Response to stimuli | can respond and interact with the environment                      |
+| Homeostasis         | maintainance and regulation of internal cell conditions            |
+| Growth              | change size/shape or move                                          |
+| Reproduction        | produce offspring, either sexually or asexually                    |
+| Excretion           | removal of metabolic waste products                                |
+| Nutrition           | feeding by either the synthesis or absorption of organic materials |
