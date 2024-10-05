@@ -1,7 +1,7 @@
-**YES** considered organelle
+**YES** considered organelle  
 
-Spherical in shape and has a double membrane with pores (site of mRNA entry and exit)
-Uncoiled chromosomes = chromatin (appear darker and at edge)
+Spherical in shape and has a double membrane with pores (site of mRNA entry and exit)  
+Uncoiled chromosomes = chromatin (appear darker and at edge)  
 
 $f(x)$:
 - Genetic information (order of [[Nucleotides|nucleotides]]) stored as chromosomes 

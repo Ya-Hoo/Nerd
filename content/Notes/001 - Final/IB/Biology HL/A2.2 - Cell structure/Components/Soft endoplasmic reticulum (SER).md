@@ -1,8 +1,8 @@
 **YES** considered organelle
 
-Meshwork of tubular membrane vesicles. No ribosomes attached on surface. Often found adjacent to [[Nucleus|nucleus]].
+Meshwork of tubular membrane vesicles. No ribosomes attached on surface. Often found adjacent to [[Nucleus|nucleus]].  
 
-Single membrane.
+Single membrane.  
 
 $f(x)$: 
 - synthesise lipids, phospholipids and steroids

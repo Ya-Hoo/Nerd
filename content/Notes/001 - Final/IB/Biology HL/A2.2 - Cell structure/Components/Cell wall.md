@@ -8,7 +8,7 @@ $f(x)$:
 ## Prokaryotes
 * Composed of peptidoglycan
 ## Plants
-Secreted by **ALL** plant cells
+Secreted by **ALL** plant cells  
 Composed of mainly [[CARBOHYDRATES|cellulose]]
 - Permeable: does not affect transportation in and out of cells
 - Strong: gives support to cell and prevent [[Plasma membrane|plasma membrane]] from bursting under pressure

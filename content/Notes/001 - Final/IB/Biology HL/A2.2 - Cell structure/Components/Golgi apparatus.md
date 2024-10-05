@@ -1,7 +1,7 @@
-**YES** considered organelle
+**YES** considered organelle  
 
-Single membrane. No ribosomes attached.
-Shorter, more curved cisternae. Located near the plasma membrane.
+Single membrane. No ribosomes attached.  
+Shorter, more curved cisternae. Located near the plasma membrane.  
 
 $f(x)$:
 - modify proteins from RER
