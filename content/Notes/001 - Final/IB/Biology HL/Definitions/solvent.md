@@ -1,0 +1,1 @@
+the liquid in which a solute is dissolved to form a solution.

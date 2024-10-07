@@ -1,0 +1,1 @@
+resistance of a liquid to flow. More viscous, less flow (ie: honey)

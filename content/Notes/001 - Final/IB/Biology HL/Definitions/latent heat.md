@@ -1,0 +1,1 @@
+the amount of energy absorbed or released by a substance without changing its temperature or pressure

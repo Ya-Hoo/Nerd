@@ -1,0 +1,1 @@
+A property that makes molecules attracted to each other
