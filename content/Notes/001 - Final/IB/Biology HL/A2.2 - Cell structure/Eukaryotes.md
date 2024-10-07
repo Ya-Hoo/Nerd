@@ -20,15 +20,13 @@ Uniqueness:
 - contains lysosome
 - temporary and smaller vacuoles (unlike plant cells)
 - may contain cilia (epithelial cell) and flagella (sperm)
-
-Plant cells  
+### Plant cells  
 ![[Pasted image 20241007214516.png|400]]
 Uniqueness:
 - has chloroplasts and plastids
 - larger vacuoles compared to animal cells
 - cell wall = cellulose
-
-Fungal cells
+### Fungal cells
 ![[Pasted image 20241007214533.png|400]]
 Uniqueness:
 - has larger vacuoles
