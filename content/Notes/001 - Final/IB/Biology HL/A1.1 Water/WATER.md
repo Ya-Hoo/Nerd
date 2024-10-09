@@ -2,44 +2,24 @@ ___
 # Water molecules and their bonds
 
 Chemical formula: H<sub>2</sub>O
+![[Pasted image 20241008234203.png]]
 
 1. Oxygen has more protons than hydrogen atoms (more electronegativity) 
 2. More electrons pulled towards oxygen
 3. Oxygen end becomes slightly negative ($\delta^-$) and hydrogen end becomes slightly positive ($\delta^+$)
 4. Water is a [[polar|polar]] molecule
 
-Water can associate via weak hydrogen bonds.
-# Properties
-## [[cohesion|Cohesion]]
-* Occur as a result of water's polarity
-* Although individual hydrogen bonds are weak, the large number of bonds present gives cohesive forces great strength
-* Gives water its surface tension
-* Enable the transpiration column to form
-## [[adhesion|Adhesion]]
-* Water molecules bond to other molecules that are polar or charged
-* Although individual hydrogen bonds are weak, the large number of bonds present gives adhesive forces great strength
-* Enable the transpiration column to form
-## [[solvent|Solvent]]
-Water can dissolve substance that contains charged particles or polar molecules by breaking the bond holding the solute together. Solutes can either be:
-* [[hydrophilic]]: easily dissolve in water, include all polar molecules, ions, and any molecules water adhere to
-* [[hydrophobic]]: do not easily dissolve in water, include non-polar molecules
-## Thermal conductivity
-### [[specific heat capacity|Specific Heat Capacity]]
-*High specific heat capacity - store lots of energy before its temperature changes.*
+![[Pasted image 20241008234219.png]]
+Water can associate via weak [[hydrogen bonds]].
+# [[Water properties]]
+# [[Origin of water]]
+# Transportation of substances in Blood
 
-$\implies$ stable env, stable internal medium to maintain constant conditions
-$\implies$ warm-blooded animals can use blood to transport thermal energy from area w/ lots of heat to areas that lose heat more readily
-### [[latent heat|Latent Heat]]
-*High latent heat - takes lots of energy for water to change state.* 
-
-$\implies$ coolant: absorbs thermal and carry them away as they evaporate
-## [[buoyancy|Buoyancy]] and [[viscosity|Viscosity]]
-- Buoyancy$\implies$helps aquatic animal swim at and adjust to different levels of the sea
-- Viscosity:$\implies$aquatic animals thus have to expend much more energy to move
-## Origin of water
-* Hypothesis: colossal impacts with icy celestial bodies approx 4.5 billion years ago
-* Evidence: similarities between the abundance and the isotope ratios of hydrogen
-
-* How Earth retain water: 
-	* sufficient gravity
-	* Goldilocks zone $\implies$ water can exist as a liquid or ice form
+| Substance    | Polarity                         | Transportation method                                                                              |
+| ------------ | -------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Salt (NaCl)  | polar                            | Dissolved in plasma                                                                                |
+| Glucose      | polar                            | Dissolved in plasma                                                                                |
+| Amino acids  | polar (some more than the other) | Dissolved in plasma                                                                                |
+| Oxygen       | non-polar                        | Small amounts dissolved but low saturation point. Often attached to haemoglobin for transportation |
+| Fat molecule | non-polar                        | Does not dissolve, carried inside lipoprotein complexes                                            |
+| Cholesterol  | non-polar                        | Does not dissolve, carried inside lipoprotein complexes                                            |

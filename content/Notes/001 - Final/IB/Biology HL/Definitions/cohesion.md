@@ -1,1 +1,1 @@
-A property that makes molecules attracted to each other
+The force by which individual molecules stick together

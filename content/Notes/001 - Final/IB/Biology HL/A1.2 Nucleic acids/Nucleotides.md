@@ -15,7 +15,7 @@ Three components:
 	- Acidic
 	- Negatively-charged
 ## Bonding
-Link through covalent bond: between phosphate group attached to 5' C and hydroxyl attached to 3'
+Link through covalent bond: between phosphate group attached to 5' C and hydroxyl attached to 3' $\implies$ strong sugar-phosphate bond
 ![[Pasted image 20240914125457.png]]
 ## Bases
 * Purines
@@ -27,5 +27,3 @@ Link through covalent bond: between phosphate group attached to 5' C and hydroxy
 	- Uracil (U) - only in RNA
 
 Hydrogen bonds between bases (pyrine bonds with pyrimidine $\implies$ three rings in total so uniform width and structure)
-A=T
-C $\equiv$ G

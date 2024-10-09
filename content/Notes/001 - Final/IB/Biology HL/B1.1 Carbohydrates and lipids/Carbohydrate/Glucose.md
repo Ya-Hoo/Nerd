@@ -1,6 +1,6 @@
 Formula: $C_6H_{12}O_6$
 
-Monosaccharide - *simplest form of carbohydrate, consisting of a single sugar unit that cannot be broken down into smaller units by hydrolysis*
+Monosaccharide - *simplest form of carbohydrate, consisting of a single sugar unit that **cannot be broken down into smaller units by hydrolysis***
 
 * Properties and uses:
 	* Two isomers; **α-glucose** and **β-glucose**. *NOTE*: only in the formation of a polymer can the $C_1$ atom be fixed and able to assign α and β.

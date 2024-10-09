@@ -1,1 +1,1 @@
-the heat which can increase one unit temperature of a mass unit of a substanc
+the heat which can increase one unit temperature of a mass unit of a substance

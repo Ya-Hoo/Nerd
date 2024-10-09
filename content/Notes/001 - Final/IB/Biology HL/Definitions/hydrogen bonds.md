@@ -1,0 +1,1 @@
+a weak bond caused by electrostatic attraction between a $(\delta^+)$ part of one molecule and the $(\delta^-)$ part of another molecule

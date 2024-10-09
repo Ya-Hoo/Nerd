@@ -10,5 +10,5 @@ First proposed by Robert Hooke after he observed the cells under a [[MICROSCOPY|
 	(supports 1)
 - Experiments by Francesco Redi and Louis Pasteur have demonstrated that cells cannot grow in sealed and sterile conditions
 	(supports 2)
-- All living organisms observed have been found to have cells in them 
+- All living organisms observed have been found to be made of cells and cell products 
 	(supports 3)

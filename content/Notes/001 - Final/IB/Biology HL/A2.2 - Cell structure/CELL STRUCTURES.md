@@ -24,3 +24,14 @@ Cells not containing typical or expected structures.
 | Reproduction        | produce offspring, either sexually or asexually                    |
 | Excretion           | removal of metabolic waste products                                |
 | Nutrition           | feeding by either the synthesis or absorption of organic materials |
+Example: Paramecium
+
+| Process             | Description                                                                                                              |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Metabolism          | metabolic pathways happen in the cytoplasm                                                                               |
+| Response to stimuli | the wave action of the cilia move the paramecium due to changes in the environment (ie: towards food)                    |
+| Homeostasis         | contractile vacuole fill up with water and expel through plasma membrane to manage water content                         |
+| Growth              | after consuming and assimilating biomass from food, it will get larger until it divides                                  |
+| Reproduction        | the nucleus can divide to support cell division by mitosis                                                               |
+| Excretion           | plasma membrane control the entry and exit of substances                                                                 |
+| Nutrition           | food vacuoles contain organisms that the paramecium consumed. These are slowly digested into cytoplasm to provide energy |
