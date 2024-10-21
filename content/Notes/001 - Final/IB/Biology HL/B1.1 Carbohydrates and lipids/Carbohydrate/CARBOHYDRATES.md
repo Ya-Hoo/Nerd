@@ -1,9 +1,10 @@
 ___
 A [[Macromolecules|macromolecule]] that has simple sugars as monomers. [[Glucose]] is its monomer. The bonds between individual monomers are called **glycosidic bonds**.
 # Formation
-Glycosidic bond
+Glycosidic bond  
 ![[Pasted image 20240906192913.png]]
-Can be 1-4 or 1-6 bond:
+
+Can be 1-4 or 1-6 bond:  
 ![[Pasted image 20240906192649.png]]
 # Types of Carbohydrates
 
