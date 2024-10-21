@@ -12,6 +12,7 @@
 Water can dissolve substance that contains charged particles or polar molecules by breaking the bond holding the solute together. Solutes can either be:
 * [[hydrophilic]]: easily dissolve in water, include all polar molecules, ions, and any molecules water adhere to
 * [[hydrophobic]]: do not easily dissolve in water, include non-polar molecules  
+
 The way water dissolves substances is by forming shells around them, stopping the solutes from clumping together in solution.
 ## Transparency
 Light can penetrate molecules of water:
