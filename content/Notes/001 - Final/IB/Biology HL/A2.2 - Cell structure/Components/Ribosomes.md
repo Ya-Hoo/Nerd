@@ -1,4 +1,4 @@
-**YES** considered organelle
+**YES** considered [[ORGANELLES|organelle]]
 
 Dark granules with no membrane
 Size:

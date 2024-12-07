@@ -1,4 +1,4 @@
-**YES** considered organelle  
+**YES** considered [[ORGANELLES|organelle]]  
 
 A network of flattened membrane (cisternae) that has 80S [[Ribosomes|ribosomes]] attached outside. Often found near [[Nucleus|nucleus]].  
 

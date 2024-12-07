@@ -1,4 +1,4 @@
-**YES** considered organelle  
+**YES** considered [[ORGANELLES|organelle]]  
 
 Thin projections on [[Plasma membrane|plasma membrane]].
 

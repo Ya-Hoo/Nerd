@@ -1,4 +1,4 @@
-**YES** considered organelle  
+**YES** considered [[ORGANELLES|organelle]]  
 
 Many (not all) plant cells have.  
 

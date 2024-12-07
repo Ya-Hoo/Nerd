@@ -1,4 +1,4 @@
-**YES** considered organelle  
+**YES** considered [[ORGANELLES|organelle]]  
 
 Hair-like protein filaments on [[Cell wall|cell wall]].
 

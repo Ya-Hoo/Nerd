@@ -7,7 +7,7 @@
 | [[Plasma membrane]]                   | [[Vacuoles]]                            |
 | [[Cytoplasm]]                         | [[Vesicles]]                            |
 | [[Rough endoplasmic reticulum (RER)]] | [[Microtubules]]                        |
-| [[Soft endoplasmic reticulum (SER)]]  | [[Microtubules#Centrioles\|Centrioles]] |
+| [[Smooth endoplasmic reticulum (SER)]]  | [[Microtubules#Centrioles\|Centrioles]] |
 | [[Golgi apparatus]]                   | [[Cytoskeleton]]                        |
 | [[Lysosome]]                          | [[Cilia]]                               |
 | [[Mitochondria]]                      | [[Flagella]]                            |

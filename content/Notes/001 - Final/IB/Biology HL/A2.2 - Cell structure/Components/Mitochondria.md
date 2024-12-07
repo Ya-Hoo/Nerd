@@ -1,4 +1,4 @@
-**YES** considered organelle  
+**YES** considered [[ORGANELLES|organelle]]  
 
 Double membrane  
 Inner membrane is folded - called **cristae**  

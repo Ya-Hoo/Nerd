@@ -1,4 +1,4 @@
-**YES** considered organelle
+**YES** considered [[ORGANELLES|organelle]]
 
 Meshwork of tubular membrane vesicles. No ribosomes attached on surface. Often found adjacent to [[Nucleus|nucleus]].  
 

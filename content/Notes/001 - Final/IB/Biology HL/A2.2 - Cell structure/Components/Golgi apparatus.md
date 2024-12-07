@@ -1,4 +1,4 @@
-**YES** considered organelle  
+**YES** considered [[ORGANELLES|organelle]]  
 
 Single membrane. No ribosomes attached.  
 Shorter, more curved cisternae. Located near the plasma membrane.  

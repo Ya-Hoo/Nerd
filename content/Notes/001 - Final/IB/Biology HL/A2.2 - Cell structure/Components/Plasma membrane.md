@@ -1,4 +1,4 @@
-**YES** considered organelle
+**YES** considered [[ORGANELLES|organelle]]
 
 $f(x)$: 
 - separate interior environment from external environment

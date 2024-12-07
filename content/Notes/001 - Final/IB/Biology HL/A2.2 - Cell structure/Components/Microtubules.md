@@ -1,4 +1,4 @@
-**YES** considered organelle  
+**YES** considered [[ORGANELLES|organelle]]  
 
 Cylindrical fibrous structures. Part of the [[Cytoskeleton|cytoskeleton]].
 
@@ -11,7 +11,7 @@ $f(x)$:
 - cell locomotion
 - separation of chromosomes during cell division
 ## Centrioles
-**YES** considered organelle  
+**YES** considered [[ORGANELLES|organelle]]  
 
 Two cylindrical organelles .
 Contains x9 triplets of microtubules
