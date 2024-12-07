@@ -5,3 +5,7 @@ The regular local folding patterns that occur within the chain - achieved throug
 
 - beta-pleated sheets: form between adjacent parallel strands
 	![[Pasted image 20240909180841.png]]
+
+# Potency
+
+# Potency
