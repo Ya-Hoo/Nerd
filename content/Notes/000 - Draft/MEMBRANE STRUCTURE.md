@@ -3,20 +3,6 @@ ___
 - Interior of the bilayer = [[hydrophobic]]:
 	![[Pasted image 20241207222945.png]]
 
-# Membrane proteins
-## Integral protein
-- embedded in the lipid bilayer
-- [[amphipathic]] molecules (the embedded part is [[hydrophobic]] while the exposed part is [[hydrophilic]])
-- most are transmembrane
-## Peripheral protein
-* on surface of lipid bilayer
-* [[hydrophilic]]
-## Functions (JETRAT)
-- *Junctions* - serve to connect and join two cells together  
-- *Enzymes* - fixing to membranes localises metabolic pathways  
-- *Transport* - facilitated diffusion and active transport  
-- *Recognition* - markers for cellular identification  
-- *Anchorage* - attachment points for extracellular matrix and cytoskeleton  
-- *Transduction* - function as receptors for peptide hormones
-
-![[Pasted image 20241210191413.png]]
+# [[Membrane proteins]]
+# [[Membrane carbohydrates]]
+# [[Fluid mosaic model]]

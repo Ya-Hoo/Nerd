@@ -1,0 +1,1 @@
+restoration of the membrane electrical potential following depolarisation, which makes the interior of the cell more negative relative to its exterior.

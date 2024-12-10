@@ -1,0 +1,1 @@
+A sudden change in the electrical potential within a cell that makes it less negative relative to the cell exterior, due to changes in ion permeability.

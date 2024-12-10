@@ -1,0 +1,1 @@
+A rapid rise (depolarisation) and fall (repolarisation) of the membrane electrical potential caused by the opening and closing of gates through the cell membrane.
