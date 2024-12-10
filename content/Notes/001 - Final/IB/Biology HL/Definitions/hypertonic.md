@@ -1,0 +1,1 @@
+lower water potential than the other solution

@@ -1,0 +1,1 @@
+spontaneous reactions wherein energy is released into the surrounding environment.

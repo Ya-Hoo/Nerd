@@ -1,0 +1,1 @@
+equal water potential on both sides

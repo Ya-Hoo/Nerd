@@ -1,0 +1,1 @@
+higher water potential than other solution

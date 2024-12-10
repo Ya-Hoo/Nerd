@@ -18,3 +18,5 @@ ___
 - *Recognition* - markers for cellular identification  
 - *Anchorage* - attachment points for extracellular matrix and cytoskeleton  
 - *Transduction* - function as receptors for peptide hormones
+
+![[Pasted image 20241210191413.png]]
