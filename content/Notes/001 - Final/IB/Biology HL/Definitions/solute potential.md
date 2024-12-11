@@ -1,0 +1,1 @@
+the tendency of water to move from an area of lower solute concentration to an area of higher solute concentration.

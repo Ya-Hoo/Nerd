@@ -1,4 +1,4 @@
-1. When ionic compound is introduced into water
+1. When ionic compound is introduced into [[WATER|water]]
 2. Slightly positive charged hydrogen attracted to negative ions
 3. Slightly negative charged oxygen attracted to positive ions
 4. Water molecules will surround the ions, creating [[hydration shells]]

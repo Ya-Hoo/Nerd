@@ -18,3 +18,8 @@ $\implies$ water absorption goes vroom vroom
 - In hypotonic solution: water moves in $\implies$ cell membrane pushes against cell wall (turgid)
 - In isotonic solution: dynamic equilibrium $\implies$ no changes (flaccid) and plants look wilted
 ## Medical application
+Organ and tissues placed in isotonic $\implies$ protect against harm cause by water loss/gain 
+
+Isotonic fluids may be given intravenously (administered in veins)
+- Purpose: replace lost fluid, administer drug, transfuse blood, administer nutrients
+- Reason: rapid absorption of medications, fluids, nutrients into circulatory system and bypass digestive system
