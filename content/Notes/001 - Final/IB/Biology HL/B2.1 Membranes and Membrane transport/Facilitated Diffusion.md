@@ -1,4 +1,4 @@
-[[Simple Diffusion|Diffusion]] assisted by transport proteins - *DOES NOT REQUIRE ATP!!!*
+[[Simple Diffusion|Diffusion]] assisted by transport proteins - *DOES NOT REQUIRE ATP!!!*  
 Why? some molecules too big or too charged to cross membrane
 ## Channel proteins
 - [[Membrane proteins#Integral protein|Transmembrane integral protein]]
@@ -9,7 +9,7 @@ Why? some molecules too big or too charged to cross membrane
 	- size
 - Can close / open (gated) from following stimuli:
 	- Changes in Voltage ([[Voltage-gated ion channels]])
-	- Ligand-gated channels / binding of small molecules
+	- [[Ligand-gated channels]] / binding of small molecules
 	- Mechanical forces (ie: pressure)
 	
 ![[Pasted image 20241210193228.png]]

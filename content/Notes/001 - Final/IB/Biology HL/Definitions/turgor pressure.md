@@ -1,0 +1,1 @@
+The pressure exerted against a cell wall by the fluid inside the cell.

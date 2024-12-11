@@ -1,0 +1,1 @@
+the shrinking of the cell membrane away from the cell wall in plant cells due to a loss of water from the cell.

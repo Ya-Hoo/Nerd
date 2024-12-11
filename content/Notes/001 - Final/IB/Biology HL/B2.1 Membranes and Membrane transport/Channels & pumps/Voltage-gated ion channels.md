@@ -8,5 +8,6 @@
 ## Inactivated stage
 * At the peak potential (+30mV), inactivation gate engaged and close channel
 * No action potential fired regardless of stimulus
+* Potassium channel opens and $K^+$ ions released
 ## Closed stage
 - Once voltage is lowered ([[repolarisation]]) through release of $K^+$ ions, activation gate closed and inactivation gate disengaged.

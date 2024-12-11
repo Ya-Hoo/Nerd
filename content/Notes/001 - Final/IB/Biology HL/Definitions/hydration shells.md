@@ -1,0 +1,1 @@
+the water molecules surrounding and forming hydrogen bonds with dissolved ions in a solution.

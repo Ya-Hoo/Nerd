@@ -1,0 +1,1 @@
+Non-spontaneous reactions wherein energy is absorbed from the surrounding environment.

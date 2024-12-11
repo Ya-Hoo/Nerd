@@ -1,0 +1,1 @@
+the state of an animal cell shrivelling and shrinking as a result of water loss

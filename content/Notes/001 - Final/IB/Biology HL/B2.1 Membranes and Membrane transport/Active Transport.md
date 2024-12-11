@@ -7,5 +7,5 @@ The net movement of particles through a cell membrane from a region of lower con
 - maintain ion concentration (ie: $Na^+$ and $K^+$ in red blood cells)
 
 ## Types
-- Direct - when energy from [[exergonic reaction]] used to transport
-- Indirect (cotransport) - movement of solute A down concentration gradient causes movement of solute B against concentration gradient
+- [[Sodium-potassium pumps|Direct]] - when energy from [[exergonic reaction]] used to transport
+- [[Cotransport|Indirect]] (cotransport) - movement of solute A down concentration gradient causes movement of solute B against concentration gradient
