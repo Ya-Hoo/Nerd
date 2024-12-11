@@ -1,0 +1,1 @@
+protein involved in forming vesicles and transporting cargo from the Golgi apparatus
