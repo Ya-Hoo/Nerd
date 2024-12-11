@@ -8,7 +8,7 @@ Why? some molecules too big or too charged to cross membrane
 	- binding sites of [[Amino acids|amino acid]] side chains = highly ion-specific (mostly only allow one type of ion)
 	- size
 - Can close / open (gated) from following stimuli:
-	- [[Voltage-gated ion channels|Changes in Voltage]]
+	- Changes in Voltage ([[Voltage-gated ion channels]])
 	- Ligand-gated channels / binding of small molecules
 	- Mechanical forces (ie: pressure)
 	
