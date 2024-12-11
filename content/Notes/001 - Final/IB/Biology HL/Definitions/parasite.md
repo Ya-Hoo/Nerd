@@ -1,0 +1,1 @@
+a living organism (or virus) that lives in or on a living thing, benefiting from the pairing at the expense of the host.

@@ -1,0 +1,1 @@
+an infectious entity affecting plants, smaller than a virus and consisting only of nucleic acid without a protein coat.

@@ -1,4 +1,4 @@
-A measure of potential energy of water per unit volume of water, relative to the potential energy of pure water at standard conditions (atm pressure and 20$^oC$)
+A measure of potential energy of [[WATER|water]] per unit volume of water, relative to the potential energy of pure water at standard conditions (atm pressure and 20$^oC$)
 
 unit: kPa
 

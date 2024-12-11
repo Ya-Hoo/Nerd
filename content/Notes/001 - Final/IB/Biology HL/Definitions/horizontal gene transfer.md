@@ -1,0 +1,1 @@
+the exchange of genetic material between individuals that does not involve reproduction.

@@ -1,0 +1,1 @@
+restricted to a certain function or mode of life.
